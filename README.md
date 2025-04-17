@@ -44,7 +44,7 @@ To explore how hotel type, market segment, booking dates, and country influence 
 
 ## 🔗 View the Full Notebook
 
-👉 [Click here to view the project](#) *(Replace with your actual GitHub link)*
+👉 [Click here to view the project](#) *(https://github.com/abdullah67675/Hotel-Booking-Cancellation-Analysis/blob/main/Data%20Analysis%20(Hotel%20Booking).ipynb)*
 
 ---
 
